@@ -1,0 +1,21 @@
+# Python environment and bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+*.venv/
+env/
+venv/
+.env
+
+# Large datasets or downloads if downloaded locally
+*.csv
+*.zip
+*.tar.gz
+nltk_data/
+
+# OS and IDE Cache
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
